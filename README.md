@@ -24,7 +24,7 @@ wget https://raw.githubusercontent.com/amgeekz/vip/master/update.sh && chmod +x 
 - Penambahan fail2ban
 - Auto block sebagian ads indo by default
 - Auto clear log per 3 menit
-- Auto deler expired
+- Auto delete expired
 - User Details Akun
 
 ### PORT INFO
