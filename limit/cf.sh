@@ -1,3 +1,43 @@
-z="
-";jDz='IP}'\''';ZCz='ET "';BCz='th-K';FEz=''\'')';bCz='s://';ODz='4/zo';TCz='d)';hBz='lare';KCz='plic';MDz='clie';vz='cdb4';GDz='ps:/';PCz=' -r ';Hz='om);';NCz='on" ';xDz='RESU';QBz=' "Up';VCz='RD=$';MEz='scdo';UBz='or $';uDz='esul';Oz='DOMA';Mz='url ';Uz='$(</';VEz=' "IP';OCz='| jq';qCz='ame=';KBz='O- i';ZEz='r/li';AEz='UT "';mCz='E}/d';wBz='mail';SCz='0].i';NEz='main';PEz='tc/x';Yz='tr -';hCz='lien';LEz='in';aDz='"A",';Lz='jq c';wCz='CORD';MBz='azip';oBz='IN}&';cDz='e":"';PDz='nes/';MCz='n/js';qz='CF_K';FDz='"htt';sDz='jq -';tDz='r .r';BDz='; th';Tz='sub=';nz='8@gm';rCz='${dn';Xz='dom ';GEz=' "$d';gz='${su';dDz=''\''${d';RDz='NE}/';NBz='.com';UCz='RECO';ZDz='pe":';dCz='clou';IBz='(wge';WEz='=$dn';kCz='es/$';aEz='b/ky';iBz='/cli';DBz='-euo';TDz='reco';dBz='tps:';XDz='ta '\''';bDz='"nam';qBz='us=a';kBz='v4/z';jCz='/zon';oz='ail.';SEz='2ray';WDz='--da';Pz='IN=a';UEz='ain';ez=')';nCz='ns_r';RBz='dati';fBz='i.cl';Jz='inst';gCz='om/c';yBz='D}" ';eBz='//ap';CCz='ey: ';YEz=' /va';REz='tc/v';qDz='lse}';CEz='{REC';XCz='l -s';pBz='stat';ABz='86c1';Ez=' ica';CBz='set ';iDz='"'\''${';QEz='ray/';Kz='all ';bEz='t/ip';sz='2dd6';oCz='ecor';Az='MYIP';yCz='le 1';lCz='{ZON';Qz='mgee';fz='dns=';ECz='_KEY';dEz='conf';UDz='rds"';rBz='ctiv';XBz='"';iz='CF_I';nBz='e=${';sBz='e" \';lBz='ones';TBz='NS f';pCz='ds?n';wDz='fi';HCz='ent-';YCz='LX G';WBz='}...';xz='d085';RCz='ult[';kz='odsa';cBz=' "ht';FBz='efai';BEz='ds/$';OBz=');';uCz='[ "$';LDz='com/';mz='a199';EEz='" \';Zz='dc a';cz='head';yDz='LT=$';Cz='get ';KDz='are.';OEz='> /e';JDz='udfl';rz='EY=c';PBz='echo';eDz='ns}'\''';bz='9 | ';Fz='nhaz';tCz='if [';hz='b}.a';SDz='dns_';nDz='"pro';aCz='http';aBz='-sLX';ACz='\';NDz='nt/v';tz='8b68';XEz='s" >';ADz='0 ]]';lDz='tl":';DDz='LX P';mDz='120,';HEz='ns" ';CDz='en';TEz='/dom';Vz='dev/';Dz='-qO-';LBz='canh';JEz='oot/';QCz='.res';iCz='t/v4';vCz='{#RE';IEz='> /r';kDz='","t';Iz='apt ';pDz='":fa';jz='D=in';DEz='ORD}';fDz='","c';JCz=': ap';bBz=' GET';WCz='(cur';DCz='${CF';Bz='=$(w';Gz='ip.c';fCz='re.c';pz='com';SBz='ng D';xCz='}" -';IDz='.clo';jBz='ent/';ICz='Type';oDz='xied';eCz='dfla';HDz='/api';Sz='ech';QDz='${ZO';HBz='IP=$';VDz=' \';YBz='ZONE';GCz='Cont';JBz='t -q';cCz='api.';xBz=': ${';sCz='s}" ';Wz='uran';lz='njay';ZBz='=$(c';dz=' -c5';cEz='vps.';gDz='onte';eEz='cd';LCz='atio';yz='f70a';KEz='doma';EDz='OST ';uz='b4b6';BBz='545c';az='-z0-';hDz='nt":';Nz='-y';vBz='th-E';vDz='t.id';GBz='l';mBz='?nam';YDz='{"ty';gBz='oudf';EBz=' pip';wz='1823';tBz='-H "';FCz='}" \';Rz='kz.t';rDz=''\'' | ';uBz='X-Au';VBz='{dns';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$z$Iz$Jz$Kz$Lz$Mz$Nz$z$Oz$Pz$Qz$Rz$Sz$z$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$z$fz$gz$hz$Qz$Rz$Sz$z$iz$jz$kz$lz$mz$nz$oz$pz$z$qz$rz$sz$tz$uz$vz$wz$xz$yz$ABz$BBz$z$CBz$DBz$EBz$FBz$GBz$z$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$z$PBz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$z$YBz$ZBz$Mz$aBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$NBz$iBz$jBz$kBz$lBz$mBz$nBz$Oz$oBz$pBz$qBz$rBz$sBz$z$tBz$uBz$vBz$wBz$xBz$iz$yBz$ACz$z$tBz$uBz$BCz$CCz$DCz$ECz$FCz$z$tBz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$z$UCz$VCz$WCz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$pCz$qCz$rCz$sCz$ACz$z$tBz$uBz$vBz$wBz$xBz$iz$yBz$ACz$z$tBz$uBz$BCz$CCz$DCz$ECz$FCz$z$tBz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$z$tCz$uCz$vCz$wCz$xCz$yCz$ADz$BDz$CDz$z$UCz$VCz$WCz$XCz$DDz$EDz$FDz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$PDz$QDz$RDz$SDz$TDz$UDz$VDz$z$tBz$uBz$vBz$wBz$xBz$iz$yBz$ACz$z$tBz$uBz$BCz$CCz$DCz$ECz$FCz$z$tBz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$ACz$z$WDz$XDz$YDz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$iDz$jDz$kDz$lDz$mDz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$uDz$vDz$ez$z$wDz$z$xDz$yDz$WCz$XCz$DDz$AEz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$BEz$CEz$DEz$EEz$z$tBz$uBz$vBz$wBz$xBz$iz$yBz$ACz$z$tBz$uBz$BCz$CCz$DCz$ECz$FCz$z$tBz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$ACz$z$WDz$XDz$YDz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$iDz$jDz$kDz$lDz$mDz$nDz$oDz$pDz$qDz$FEz$z$PBz$GEz$HEz$IEz$JEz$KEz$LEz$z$PBz$GEz$HEz$IEz$JEz$MEz$NEz$z$PBz$GEz$HEz$OEz$PEz$QEz$KEz$LEz$z$PBz$GEz$HEz$OEz$REz$SEz$TEz$UEz$z$PBz$GEz$HEz$OEz$PEz$QEz$MEz$NEz$z$PBz$VEz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$dEz$z$eEz"
+#!/bin/bash
+MYIP=$(wget -qO-icanhazip.com);
+tepat instal jq curl -y
+read -p "Masukan Domain (contoh : memek7)" domen
+DOMAIN=mypremium.biz.id
+sub=${domen}
+#(</dev/urandom tr -dc a-z0-9 | kepala -c5)
+dns=${sub}.mypremium.biz.id
+CF_ID=andyyuda41@gmail.com
+CF_KEY=0d626234700bad388d6d07b49c42901445d1c
+setel -euo pipefail
+IP=$(wget -qO-icanhazip.com);
+echo "Memperbarui DNS untuk ${dns}..."
+ZONA=$(curl -sLX DAPATKAN "https://api.cloudflare.com/client/v4/zones?name=${DOMAIN}&status=active" \
+     -H "X-Auth-Email: ${CF_ID}" \
+     -H "Kunci-X-Auth: ${CF_KEY}" \
+     -H "Jenis Konten: aplikasi/json" | jq -r .hasil[0].id)
+
+RECORD=$(curl -sLX DAPATKAN "https://api.cloudflare.com/client/v4/zones/${ZONE}/dns_records?name=${dns}" \
+     -H "X-Auth-Email: ${CF_ID}" \
+     -H "Kunci-X-Auth: ${CF_KEY}" \
+     -H "Jenis Konten: aplikasi/json" | jq -r .hasil[0].id)
+
+jika [[ "${#RECORD}" -le 10 ]]; Kemudian
+     REKAM=$(curl -sLX POST "https://api.cloudflare.com/client/v4/zones/${ZONE}/dns_records" \
+     -H "X-Auth-Email: ${CF_ID}" \
+     -H "Kunci-X-Auth: ${CF_KEY}" \
+     -H "Jenis Konten: aplikasi/json" \
+     --data '{"type":"A","name":"'${dns}'","content":"'${IP}'","ttl":120,"proxied":false }' | jq -r .hasil.id)
+fi
+
+HASIL=$(curl -sLX PUT "https://api.cloudflare.com/client/v4/zones/${ZONE}/dns_records/${RECORD}" \
+     -H "X-Auth-Email: ${CF_ID}" \
+     -H "Kunci-X-Auth: ${CF_KEY}" \
+     -H "Jenis Konten: aplikasi/json" \
+     --data '{"type":"A","name":"'${dns}'","content":"'${IP}'","ttl":120,"proxied":false }')
+gema "$dns" > /root/domain
+gema "$dns" > /root/scdomain
+gema "$dns" > /etc/xray/domain
+gema "$dns" > /etc/v2ray/domain
+gema "$dns" > /etc/xray/scdomain
+gema "IP=$dns" > /var/lib/kyt/ipvps.conf
+CD
