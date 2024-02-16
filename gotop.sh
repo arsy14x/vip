@@ -1,3 +1,5 @@
+#!/bin/bash
+
 function ins_swab(){
 clear
 print_install "Memasang Swap 1 G"
